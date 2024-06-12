@@ -1284,7 +1284,7 @@ System: Pasta:
 5. Mixed Sausage
 6. Baked Lasagna
 User: What is Baked Lasagna?
-System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy béchamel, and melted cheese, all baked together until bubbly and golden. 
+System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy bÃ©chamel, and melted cheese, all baked together until bubbly and golden. 
 
 --- End of Conversation ---
 
@@ -1304,7 +1304,7 @@ System: Pasta:
 5. Mixed Sausage
 6. Baked Lasagna
 User: What is Baked Lasagna?
-System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy béchamel, and melted cheese, all baked together until bubbly and golden. 
+System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy bÃ©chamel, and melted cheese, all baked together until bubbly and golden. 
 User: How about the Korean Sotanghon?
 System: Korean Sotanghon: Korean Sotanghon is a Korean-inspired dish made with glass noodles (sotanghon) stir-fried with vegetables, meat, and a savory sauce made of soy sauce, garlic, and sesame oil. The dish is light and flavorful, often garnished with sesame seeds and green onions.
 
@@ -1326,7 +1326,7 @@ System: Pasta:
 5. Mixed Sausage
 6. Baked Lasagna
 User: What is Baked Lasagna?
-System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy béchamel, and melted cheese, all baked together until bubbly and golden. 
+System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy bÃ©chamel, and melted cheese, all baked together until bubbly and golden. 
 User: How about the Korean Sotanghon?
 System: Korean Sotanghon: Korean Sotanghon is a Korean-inspired dish made with glass noodles (sotanghon) stir-fried with vegetables, meat, and a savory sauce made of soy sauce, garlic, and sesame oil. The dish is light and flavorful, often garnished with sesame seeds and green onions.
 User: and the Baked Spaghetti with Cheese Sauce?
@@ -1350,7 +1350,7 @@ System: Pasta:
 5. Mixed Sausage
 6. Baked Lasagna
 User: What is Baked Lasagna?
-System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy béchamel, and melted cheese, all baked together until bubbly and golden. 
+System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy bÃ©chamel, and melted cheese, all baked together until bubbly and golden. 
 User: How about the Korean Sotanghon?
 System: Korean Sotanghon: Korean Sotanghon is a Korean-inspired dish made with glass noodles (sotanghon) stir-fried with vegetables, meat, and a savory sauce made of soy sauce, garlic, and sesame oil. The dish is light and flavorful, often garnished with sesame seeds and green onions.
 User: and the Baked Spaghetti with Cheese Sauce?
