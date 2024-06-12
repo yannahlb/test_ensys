@@ -6,6 +6,4 @@ python-dotenv
 scikit-learn
 pandas
 openai==0.28
-python -m spacy download en_core_web_sm
 python-docx
-pip install
