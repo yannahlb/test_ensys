@@ -1,0 +1,1619 @@
+User: The staff is moody!
+System: I'm sorry to hear that. Customer service is certainly important. Can you elaborate on the situation a bit more?
+
+--- End of Conversation ---
+
+User: The staff is moody!
+System: I'm sorry to hear that. Customer service is certainly important. Can you elaborate on the situation a bit more?
+User: I don't like how she raised her voice in me.
+User: The steak I ordered is overcooked and dry. I asked for medium-rare, but this is well-done.
+System: I am so sorry you were not happy with your steak. We want to make it right. Would you like a replacement steak or maybe something else from the menu?
+
+--- End of Conversation ---
+
+User: The staff is moody!
+System: I'm sorry to hear that. Customer service is certainly important. Can you elaborate on the situation a bit more?
+User: I don't like how she raised her voice in me.
+User: The steak I ordered is overcooked and dry. I asked for medium-rare, but this is well-done.
+System: I am so sorry you were not happy with your steak. We want to make it right. Would you like a replacement steak or maybe something else from the menu?
+User: I also ordered the vegetarian pasta, but I received the chicken Alfredo instead.
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+
+--- End of Conversation ---
+
+User: I have a severe nut allergy and I found nuts in my dish, even though I specified no nuts.
+System: I'm terribly sorry to hear that happened. Let me fix that for you!
+
+--- End of Conversation ---
+
+User: I have a severe nut allergy and I found nuts in my dish, even though I specified no nuts.
+System: I'm terribly sorry to hear that happened. Let me fix that for you!
+User: My friend has severe nut allergy and I found nuts in the dish, even though I specified no nuts.
+System: That must have been very frustrating. Such errors can have serious consequences.
+
+--- End of Conversation ---
+
+User: I have a severe nut allergy and I found nuts in my dish, even though I specified no nuts.
+System: I'm terribly sorry to hear that happened. Let me fix that for you!
+User: My friend has severe nut allergy and I found nuts in the dish, even though I specified no nuts.
+System: That must have been very frustrating. Such errors can have serious consequences.
+User: She ended up in the ER due to this
+System: That's very unfortunate. I apologize for our mistake.
+
+--- End of Conversation ---
+
+User: I like the pasta
+User: Can you tell me the pasta menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+
+--- End of Conversation ---
+
+User: I like the pasta
+User: Can you tell me the pasta menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: Can you tell me the pasta menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+
+--- End of Conversation ---
+
+User: Can you tell me the pasta menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: ?
+System: Hello! How can I assist you today?
+
+--- End of Conversation ---
+
+User: ?
+System: Hello! How can I assist you today?
+User: Can you tell me the menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+
+--- End of Conversation ---
+
+User: ?
+System: Hello! How can I assist you today?
+User: Can you tell me the menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: ?
+System: Hello! How can I assist you today?
+User: Can you tell me the menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: kk
+System: Is there anything in particular you're in the mood for today?
+
+--- End of Conversation ---
+
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+
+--- End of Conversation ---
+
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Drinks
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+
+--- End of Conversation ---
+
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Drinks
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+
+--- End of Conversation ---
+
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Drinks
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Drinks
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: drinks?
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+
+--- End of Conversation ---
+
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Drinks
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: drinks?
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Drinks
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: drinks?
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Drinks
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: drinks?
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Drinks
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: Can you tell me the menu
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: drinks?
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: Drinks?
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+
+--- End of Conversation ---
+
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta?
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: asdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjasdwihjioijjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+System: Can you tell me more about pasta?
+
+--- End of Conversation ---
+
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: drinks?
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+
+--- End of Conversation ---
+
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: drinks?
+System: Drinks:
+1. Coke
+2. Sprite
+3. Pepsi
+4. Royal
+5. Mountain Dew
+6. Sarsi
+7. Seven Up
+8. Coke Zero
+9. Diet Coke
+10. Mug Root Beer
+11. Fruit Soda
+12. Sprite Zero
+13. Mirinda
+14. Coke Light
+15. RC Cola
+User: Main Course
+System: Main course:
+1. Beef Lengua Estofado
+2. Porkloin Cordon Bleu
+3. Rellenong Manok
+4. Baked Spareribs with Mushroom Gravy
+5. Chicken Galantina
+6. Baked Fish Fillet with Cheese Sauce
+7. Beef Morcon
+8. Roast Pork with Mushroom Gravy
+9. Supreme Baked Chicken
+10. Creamed Seafood Casserole
+11. Lengua con Champignon
+12. Pork in Casserole
+13. Chicken with Bacon and Cheese
+14. Fish Fillet with Tartar Sauce
+15. Beef with Oyster Sauce
+16. Chinese Style Pork Steak
+17. Chicken Asado
+18. Fish Fillet with Sweet and Sour Brown Sauce
+19. Tenderloin Tips with Mushroom Sauce
+20. Steamed Lapu-Lapu with Brown Sauce
+21. Morconcitos
+22. Spanish Stuffed Chicken
+23. Grilled Tanigue with Lemon Sauce
+24. Roast Beef
+25. Pork Spareribs with Orange Glazed
+26. Garlic Fried Chicken
+27. Pan Grilled Lapu-Lapu in Olive Oil
+28. Beef Mechado
+29. Chicken a la Orange
+30. Fish Fillet Florentine
+31. Old-Fashion Beef Pie
+32. Gourmet Pork Chops
+33. Grilled Tanigue with Sesame-Lime Marinade
+34. Kare-Kare
+35. Chicken Pork Adobo
+36. Rellenong Bangus
+37. Shrimp Rolls
+38. Beef Caldereta
+39. Lechon Paksiw
+40. Chicken Barbeque
+41. Creamy Loin Cordon Bleu
+42. Buffalo Wings
+43. Grilled Salmon Filipino Style
+44. Beef with Oyster Sauce and Flower Broccoli
+45. Steamed Lapu-Lapu
+46. Stuffed Chicken
+47. Delicious Szechuan Shrimp
+48. Chinese Spring Rolls
+49. Pork Roast
+50. Chinese Fresh Lumpia
+51. Heavenly Pot Roast
+52. Callos
+53. Stuffed Seabass on Salsa Verde
+54. Hito Pampango
+55. Chicken Inasal
+56. Capampangan Menudo
+57. Laing
+58. Pork Lard Binagoongan
+59. Mechadong Antiguo
+60. Bopis
+61. Paella Filipina
+62. Lechon Manok
+63. Pork Adobo with Talangka
+64. Prawn Manticado
+65. Lumpiang Isda with Quesong Puti
+66. Seafoods Tempura
+67. Tuna Sashimi
+68. Stuffed Crab Claws
+69. Sake Steamed Chicken
+70. Beef Teriyaki
+71. Grilled Pink Salmon
+72. Beef Bulgogi
+73. Shrimp and Squid Bulgogi
+74. Pandan Chicken
+75. Chili Crabs
+76. Steamed Pork with Lotus Leaves
+77. Beef Lengua in Mushroom Sauce
+78. Grilled Tanigue in Buttered Lemon Sauce
+79. Rainbow fish
+80. Fillet Mignon with Demi Glace Sauce
+81. Prawn in Chili Garlic Sauce
+82. Tanigue Steak Filipino Style
+83. Creamy Fettucine
+84. Honeyed Barbecue
+85. Baked Beef Ribs with Mushroom Gravy
+86. Pan-Grilled Lapu-Lapu in Olive Oil
+87. Chicken Tips with Demi-Glace Sauce
+88. Prawns and Squid in Ink Risotto
+89. Pork Barbecue
+
+--- End of Conversation ---
+
+User: I like the
+User: I love eating here at Atin-atehan. But the place needs a deep clean. The table feels sticky even if it was wiped down with alcohol.
+System: I'm happy to hear that you love dining at Atin-atehan! I appreciate your feedback about the cleanliness. We'll make sure to address this issue and keep our dining area in top shape.
+
+--- End of Conversation ---
+
+User: I like the
+User: I love eating here at Atin-atehan. But the place needs a deep clean. The table feels sticky even if it was wiped down with alcohol.
+System: I'm happy to hear that you love dining at Atin-atehan! I appreciate your feedback about the cleanliness. We'll make sure to address this issue and keep our dining area in top shape.
+User: The place also smells
+System: Can you tell me more about main course?
+
+--- End of Conversation ---
+
+User: I like the
+User: I love eating here at Atin-atehan. But the place needs a deep clean. The table feels sticky even if it was wiped down with alcohol.
+System: I'm happy to hear that you love dining at Atin-atehan! I appreciate your feedback about the cleanliness. We'll make sure to address this issue and keep our dining area in top shape.
+User: The place also smells
+System: Can you tell me more about main course?
+User: what>
+System: Can you tell me more about main course?
+
+--- End of Conversation ---
+
+User: I like the
+User: I love eating here at Atin-atehan. But the place needs a deep clean. The table feels sticky even if it was wiped down with alcohol.
+System: I'm happy to hear that you love dining at Atin-atehan! I appreciate your feedback about the cleanliness. We'll make sure to address this issue and keep our dining area in top shape.
+User: The place also smells
+System: Can you tell me more about main course?
+User: what>
+System: Can you tell me more about main course?
+User: No, I'm the customer here
+System: I'm so sorry! How may I help you
+
+--- End of Conversation ---
+
+User: I like the
+User: I love eating here at Atin-atehan. But the place needs a deep clean. The table feels sticky even if it was wiped down with alcohol.
+System: I'm happy to hear that you love dining at Atin-atehan! I appreciate your feedback about the cleanliness. We'll make sure to address this issue and keep our dining area in top shape.
+User: The place also smells
+System: Can you tell me more about main course?
+User: what>
+System: Can you tell me more about main course?
+User: No, I'm the customer here
+System: I'm so sorry! How may I help you
+User: The floor was muddy
+System: Can you tell me more about main course?
+
+--- End of Conversation ---
+
+User: I love eating here at Atin-atehan. But the place needs a deep clean. The table feels sticky even if it was wiped down with alcohol.
+System: I'm glad you enjoy eating there! I'm sorry to hear that you've had cleanliness issues though.
+
+--- End of Conversation ---
+
+User: I love eating here at Atin-atehan. But the place needs a deep clean. The table feels sticky even if it was wiped down with alcohol.
+System: I'm glad you enjoy eating there! I'm sorry to hear that you've had cleanliness issues though.
+User: There are also gums underneath table
+System: I'm sorry to hear that. I should pass on your feedback to the management so they can address this issue for you.
+
+--- End of Conversation ---
+
+User: The food was awesome but the place is really dirty.
+System: I'm sorry to hear that. We take your feedback really seriously. I'll make sure to pass your comments onto the management.
+
+--- End of Conversation ---
+
+User: The food was awesome but the place is really dirty.
+System: I'm sorry to hear that. We take your feedback really seriously. I'll make sure to pass your comments onto the management.
+User: The restroom is also messy
+System: I'm truly sorry about that. We do have a janitorial staff though. Have you let anyone know?
+
+--- End of Conversation ---
+
+User: The food was awesome but the place is really dirty.
+System: I'm sorry to hear that. We take your feedback really seriously. I'll make sure to pass your comments onto the management.
+User: The restroom is also messy
+System: I'm truly sorry about that. We do have a janitorial staff though. Have you let anyone know?
+User: It would be best if you maintain the place clean
+System: Thank you for your suggestion. We care about providing a clean environment for our customers. Your feedback is valued.
+
+--- End of Conversation ---
+
+User: The oil based pasta has too much oil
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: The oil based pasta has too much oil
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: The oil based meals has too much oil
+System: Can you tell me more about pasta?
+
+--- End of Conversation ---
+
+User: The oil based pasta has too much oil
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: The oil based meals has too much oil
+System: Can you tell me more about pasta?
+User: I love hte food, but dining here is a bit difficult. Since the place is a total mess.
+System: It really sounds like a struggle for you. I hope things can improve or maybe there is a better locale.
+
+--- End of Conversation ---
+
+User: The oil based pasta has too much oil
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: The oil based meals has too much oil
+System: Can you tell me more about pasta?
+User: I love hte food, but dining here is a bit difficult. Since the place is a total mess.
+System: It really sounds like a struggle for you. I hope things can improve or maybe there is a better locale.
+User: The spoon and fork still has food debris on it. It's very unhygienic
+System: Can you tell me more about pasta?
+
+--- End of Conversation ---
+
+User: Yeah. the food was awesome.
+System: I'm happy to hear that you enjoyed the food! Let me know if you have any questions about the menu.
+
+--- End of Conversation ---
+
+User: Yeah. the food was awesome.
+System: I'm happy to hear that you enjoyed the food! Let me know if you have any questions about the menu.
+User: Can you show me the menu? I'd like to see what dishes I could try next visit
+User: Yes. The dishes served was good.
+System: I'm glad to hear that you enjoyed the dishes! If you have any questions about the menu, feel free to ask.
+
+--- End of Conversation ---
+
+User: Yeah. the food was awesome.
+System: I'm happy to hear that you enjoyed the food! Let me know if you have any questions about the menu.
+User: Can you show me the menu? I'd like to see what dishes I could try next visit
+User: Yes. The dishes served was good.
+System: I'm glad to hear that you enjoyed the dishes! If you have any questions about the menu, feel free to ask.
+User: Can you show me the menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+
+--- End of Conversation ---
+
+User: Yeah. the food was awesome.
+System: I'm happy to hear that you enjoyed the food! Let me know if you have any questions about the menu.
+User: Can you show me the menu? I'd like to see what dishes I could try next visit
+User: Yes. The dishes served was good.
+System: I'm glad to hear that you enjoyed the dishes! If you have any questions about the menu, feel free to ask.
+User: Can you show me the menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: Yeah. the food was awesome.
+System: I'm happy to hear that you enjoyed the food! Let me know if you have any questions about the menu.
+User: Can you show me the menu? I'd like to see what dishes I could try next visit
+User: Yes. The dishes served was good.
+System: I'm glad to hear that you enjoyed the dishes! If you have any questions about the menu, feel free to ask.
+User: Can you show me the menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: What is Baked Lasagna?
+System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy béchamel, and melted cheese, all baked together until bubbly and golden. 
+
+--- End of Conversation ---
+
+User: Yeah. the food was awesome.
+System: I'm happy to hear that you enjoyed the food! Let me know if you have any questions about the menu.
+User: Can you show me the menu? I'd like to see what dishes I could try next visit
+User: Yes. The dishes served was good.
+System: I'm glad to hear that you enjoyed the dishes! If you have any questions about the menu, feel free to ask.
+User: Can you show me the menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: What is Baked Lasagna?
+System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy béchamel, and melted cheese, all baked together until bubbly and golden. 
+User: How about the Korean Sotanghon?
+System: Korean Sotanghon: Korean Sotanghon is a Korean-inspired dish made with glass noodles (sotanghon) stir-fried with vegetables, meat, and a savory sauce made of soy sauce, garlic, and sesame oil. The dish is light and flavorful, often garnished with sesame seeds and green onions.
+
+--- End of Conversation ---
+
+User: Yeah. the food was awesome.
+System: I'm happy to hear that you enjoyed the food! Let me know if you have any questions about the menu.
+User: Can you show me the menu? I'd like to see what dishes I could try next visit
+User: Yes. The dishes served was good.
+System: I'm glad to hear that you enjoyed the dishes! If you have any questions about the menu, feel free to ask.
+User: Can you show me the menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: What is Baked Lasagna?
+System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy béchamel, and melted cheese, all baked together until bubbly and golden. 
+User: How about the Korean Sotanghon?
+System: Korean Sotanghon: Korean Sotanghon is a Korean-inspired dish made with glass noodles (sotanghon) stir-fried with vegetables, meat, and a savory sauce made of soy sauce, garlic, and sesame oil. The dish is light and flavorful, often garnished with sesame seeds and green onions.
+User: and the Baked Spaghetti with Cheese Sauce?
+System: Can you tell me more about pasta?
+
+--- End of Conversation ---
+
+User: Yeah. the food was awesome.
+System: I'm happy to hear that you enjoyed the food! Let me know if you have any questions about the menu.
+User: Can you show me the menu? I'd like to see what dishes I could try next visit
+User: Yes. The dishes served was good.
+System: I'm glad to hear that you enjoyed the dishes! If you have any questions about the menu, feel free to ask.
+User: Can you show me the menu?
+System: Our menu is divided into several categories including Dessert, Drinks, Main Course, Pasta, Salad, and Sides. Which category would you like to explore?
+User: Pasta
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: What is Baked Lasagna?
+System: Baked Lasagna: Baked Lasagna is an Italian classic featuring layers of pasta, rich meat sauce, creamy béchamel, and melted cheese, all baked together until bubbly and golden. 
+User: How about the Korean Sotanghon?
+System: Korean Sotanghon: Korean Sotanghon is a Korean-inspired dish made with glass noodles (sotanghon) stir-fried with vegetables, meat, and a savory sauce made of soy sauce, garlic, and sesame oil. The dish is light and flavorful, often garnished with sesame seeds and green onions.
+User: and the Baked Spaghetti with Cheese Sauce?
+System: Can you tell me more about pasta?
+User: What is the baked spaghetti with cheese sauce?
+System: Can you tell me more about pasta?
+
+--- End of Conversation ---
+
+User: The restaurant was not cleaned properly. The tables were dirty.
+System: I apologize for your experience. The cleanliness of our restaurant is very important.
+
+--- End of Conversation ---
+
+User: The restaurant was not cleaned properly. The tables were dirty.
+System: I apologize for your experience. The cleanliness of our restaurant is very important.
+User: What are you gonna do about my unpleasant visit??
+System: I am very sorry to hear that you had such a bad visit.
+
+--- End of Conversation ---
+
+User: The restaurant was not cleaned properly. The tables were dirty.
+System: I apologize for your experience. The cleanliness of our restaurant is very important.
+User: What are you gonna do about my unpleasant visit??
+System: I am very sorry to hear that you had such a bad visit.
+User: What's your solution????
+System: Can you tell me more about pasta?
+
+--- End of Conversation ---
+
+User: The table assigned to us was so dirty!!
+System: I am so sorry to hear that! It must have been unpleasant to sit at a dirty table. Let me make sure that feedback gets passed on to the right people
+
+--- End of Conversation ---
+
+User: The table assigned to us was so dirty!!
+System: I am so sorry to hear that! It must have been unpleasant to sit at a dirty table. Let me make sure that feedback gets passed on to the right people
+User: Also the staff was rude and unapproachable. They didn't give a shit about our requests!
+System: I'm so sorry to hear that! It's important to us that every customer has a respectful and pleasant experience in our restaurant.
+
+--- End of Conversation ---
+
+User: The table assigned to us was so dirty!!
+System: I am so sorry to hear that! It must have been unpleasant to sit at a dirty table. Let me make sure that feedback gets passed on to the right people
+User: Also the staff was rude and unapproachable. They didn't give a shit about our requests!
+System: I'm so sorry to hear that! It's important to us that every customer has a respectful and pleasant experience in our restaurant.
+User: She even yelled at one of my friends!
+System: That is completely unacceptable. I will be sure to pass along this feedback to ensure better service
+
+--- End of Conversation ---
+
+User: The table assigned to us was so dirty!!
+System: I am so sorry to hear that! It must have been unpleasant to sit at a dirty table. Let me make sure that feedback gets passed on to the right people
+User: Also the staff was rude and unapproachable. They didn't give a shit about our requests!
+System: I'm so sorry to hear that! It's important to us that every customer has a respectful and pleasant experience in our restaurant.
+User: She even yelled at one of my friends!
+System: That is completely unacceptable. I will be sure to pass along this feedback to ensure better service
+User: Is that all you gonna say?
+System: Can you tell me more about pasta?
+
+--- End of Conversation ---
+
+User: The table assigned to us was so dirty!!
+System: I am so sorry to hear that! It must have been unpleasant to sit at a dirty table. Let me make sure that feedback gets passed on to the right people
+User: Also the staff was rude and unapproachable. They didn't give a shit about our requests!
+System: I'm so sorry to hear that! It's important to us that every customer has a respectful and pleasant experience in our restaurant.
+User: She even yelled at one of my friends!
+System: That is completely unacceptable. I will be sure to pass along this feedback to ensure better service
+User: Is that all you gonna say?
+System: Can you tell me more about pasta?
+User: Why are you asking me that??
+System: Can you tell me more about pasta?
+
+--- End of Conversation ---
+
+User: The table assigned to us was so dirty!!
+System: I am so sorry to hear that! It must have been unpleasant to sit at a dirty table. Let me make sure that feedback gets passed on to the right people
+User: Also the staff was rude and unapproachable. They didn't give a shit about our requests!
+System: I'm so sorry to hear that! It's important to us that every customer has a respectful and pleasant experience in our restaurant.
+User: She even yelled at one of my friends!
+System: That is completely unacceptable. I will be sure to pass along this feedback to ensure better service
+User: Is that all you gonna say?
+System: Can you tell me more about pasta?
+User: Why are you asking me that??
+System: Can you tell me more about pasta?
+User: The food was terrible too!
+System: I'm sorry you did not enjoy the food. What specifically was wrong with it?
+
+--- End of Conversation ---
+
+User: The table assigned to us was so dirty!!
+System: I am so sorry to hear that! It must have been unpleasant to sit at a dirty table. Let me make sure that feedback gets passed on to the right people
+User: Also the staff was rude and unapproachable. They didn't give a shit about our requests!
+System: I'm so sorry to hear that! It's important to us that every customer has a respectful and pleasant experience in our restaurant.
+User: She even yelled at one of my friends!
+System: That is completely unacceptable. I will be sure to pass along this feedback to ensure better service
+User: Is that all you gonna say?
+System: Can you tell me more about pasta?
+User: Why are you asking me that??
+System: Can you tell me more about pasta?
+User: The food was terrible too!
+System: I'm sorry you did not enjoy the food. What specifically was wrong with it?
+User: The pasta was soggy!!
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: The table assigned to us was so dirty!!
+System: I am so sorry to hear that! It must have been unpleasant to sit at a dirty table. Let me make sure that feedback gets passed on to the right people
+User: Also the staff was rude and unapproachable. They didn't give a shit about our requests!
+System: I'm so sorry to hear that! It's important to us that every customer has a respectful and pleasant experience in our restaurant.
+User: She even yelled at one of my friends!
+System: That is completely unacceptable. I will be sure to pass along this feedback to ensure better service
+User: Is that all you gonna say?
+System: Can you tell me more about pasta?
+User: Why are you asking me that??
+System: Can you tell me more about pasta?
+User: The food was terrible too!
+System: I'm sorry you did not enjoy the food. What specifically was wrong with it?
+User: The pasta was soggy!!
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: i wont order a pasta again!
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+
+--- End of Conversation ---
+
+User: The table assigned to us was so dirty!!
+System: I am so sorry to hear that! It must have been unpleasant to sit at a dirty table. Let me make sure that feedback gets passed on to the right people
+User: Also the staff was rude and unapproachable. They didn't give a shit about our requests!
+System: I'm so sorry to hear that! It's important to us that every customer has a respectful and pleasant experience in our restaurant.
+User: She even yelled at one of my friends!
+System: That is completely unacceptable. I will be sure to pass along this feedback to ensure better service
+User: Is that all you gonna say?
+System: Can you tell me more about pasta?
+User: Why are you asking me that??
+System: Can you tell me more about pasta?
+User: The food was terrible too!
+System: I'm sorry you did not enjoy the food. What specifically was wrong with it?
+User: The pasta was soggy!!
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: i wont order a pasta again!
+System: Pasta:
+1. Baked Spaghetti with Cheese Sauce
+2. Seafood Sotanghon
+3. Korean Sotanghon
+4. Shrimp Pecante
+5. Mixed Sausage
+6. Baked Lasagna
+User: The main course wasn't cooked properly!
+System: Main course:
+1. Beef Lengua Estofado
+2. Porkloin Cordon Bleu
+3. Rellenong Manok
+4. Baked Spareribs with Mushroom Gravy
+5. Chicken Galantina
+6. Baked Fish Fillet with Cheese Sauce
+7. Beef Morcon
+8. Roast Pork with Mushroom Gravy
+9. Supreme Baked Chicken
+10. Creamed Seafood Casserole
+11. Lengua con Champignon
+12. Pork in Casserole
+13. Chicken with Bacon and Cheese
+14. Fish Fillet with Tartar Sauce
+15. Beef with Oyster Sauce
+16. Chinese Style Pork Steak
+17. Chicken Asado
+18. Fish Fillet with Sweet and Sour Brown Sauce
+19. Tenderloin Tips with Mushroom Sauce
+20. Steamed Lapu-Lapu with Brown Sauce
+21. Morconcitos
+22. Spanish Stuffed Chicken
+23. Grilled Tanigue with Lemon Sauce
+24. Roast Beef
+25. Pork Spareribs with Orange Glazed
+26. Garlic Fried Chicken
+27. Pan Grilled Lapu-Lapu in Olive Oil
+28. Beef Mechado
+29. Chicken a la Orange
+30. Fish Fillet Florentine
+31. Old-Fashion Beef Pie
+32. Gourmet Pork Chops
+33. Grilled Tanigue with Sesame-Lime Marinade
+34. Kare-Kare
+35. Chicken Pork Adobo
+36. Rellenong Bangus
+37. Shrimp Rolls
+38. Beef Caldereta
+39. Lechon Paksiw
+40. Chicken Barbeque
+41. Creamy Loin Cordon Bleu
+42. Buffalo Wings
+43. Grilled Salmon Filipino Style
+44. Beef with Oyster Sauce and Flower Broccoli
+45. Steamed Lapu-Lapu
+46. Stuffed Chicken
+47. Delicious Szechuan Shrimp
+48. Chinese Spring Rolls
+49. Pork Roast
+50. Chinese Fresh Lumpia
+51. Heavenly Pot Roast
+52. Callos
+53. Stuffed Seabass on Salsa Verde
+54. Hito Pampango
+55. Chicken Inasal
+56. Capampangan Menudo
+57. Laing
+58. Pork Lard Binagoongan
+59. Mechadong Antiguo
+60. Bopis
+61. Paella Filipina
+62. Lechon Manok
+63. Pork Adobo with Talangka
+64. Prawn Manticado
+65. Lumpiang Isda with Quesong Puti
+66. Seafoods Tempura
+67. Tuna Sashimi
+68. Stuffed Crab Claws
+69. Sake Steamed Chicken
+70. Beef Teriyaki
+71. Grilled Pink Salmon
+72. Beef Bulgogi
+73. Shrimp and Squid Bulgogi
+74. Pandan Chicken
+75. Chili Crabs
+76. Steamed Pork with Lotus Leaves
+77. Beef Lengua in Mushroom Sauce
+78. Grilled Tanigue in Buttered Lemon Sauce
+79. Rainbow fish
+80. Fillet Mignon with Demi Glace Sauce
+81. Prawn in Chili Garlic Sauce
+82. Tanigue Steak Filipino Style
+83. Creamy Fettucine
+84. Honeyed Barbecue
+85. Baked Beef Ribs with Mushroom Gravy
+86. Pan-Grilled Lapu-Lapu in Olive Oil
+87. Chicken Tips with Demi-Glace Sauce
+88. Prawns and Squid in Ink Risotto
+89. Pork Barbecue
+
+--- End of Conversation ---
+
