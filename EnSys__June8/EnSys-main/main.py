@@ -3,6 +3,7 @@ This is the main file for the EnSys chatbot. It initializes the Flask app and lo
 Old model: ft:gpt-3.5-turbo-0125:ensys:restaurant:9IrHirrM 
 '''
 import nltk
+import os
 nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('vader_lexicon')
