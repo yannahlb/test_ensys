@@ -3,7 +3,7 @@ vaderSentiment
 spacy
 nltk
 python-dotenv
--U scikit-learn
+scikit-learn
 pandas
 openai==0.28
 python -m spacy download en_core_web_sm
