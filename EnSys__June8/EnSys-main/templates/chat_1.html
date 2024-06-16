@@ -109,39 +109,6 @@
             align-items: center;
         }
 
-        @media(max-width: 479px) {
-
-        .input-group {
-            display: flex;
-            border-radius: 10px;
-            background-color: #fff;
-            align-items: center;
-        }
-        .chat-messages {
-            padding: 5px;
-            height: 450px;
-        }
-        .chat-input{
-            padding: 5px;
-        }
-        .chat-input-container {
-            padding: 5px 5px;
-        }
-        .send-button, .end-button {
-            font-size: 9px;
-            padding: 1px 1px;
-            margin-right: 1px;
-        }
-        .chatbot-profile {
-            margin-bottom: 1px;
-            margin-right: 1px;
-        }
-        .message{
-            margin-left: 2px;
-        }
-     }
-        
-
         .chat-input {
             flex-grow: 1;
             border: none;
@@ -169,6 +136,40 @@
             background-color: #5F6F52;
             margin-right: 10px; 
         }
+
+        @media(max-width: 479px) {
+
+        .input-group {
+            display: flex;
+            border-radius: 10px;
+            background-color: #fff;
+            align-items: center;
+        }
+        .chat-messages {
+            padding: 5px;
+            height: 450px;
+        }
+        .chat-input{
+            padding: 5px;
+            width:100%;
+        }
+        .chat-input-container {
+            padding: 5px 5px;
+        }
+        .send-button, .end-button {
+            font-size: 12px;
+            padding: 5px 5px;
+            margin-right: 5px;
+        }
+        .chatbot-profile {
+            margin-bottom: 1px;
+            margin-right: 1px;
+        }
+        .message{
+            margin-left: 2px;
+        }
+}
+
 
         /* Fun animations */
         .message:hover,
