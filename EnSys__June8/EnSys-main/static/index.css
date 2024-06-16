@@ -485,6 +485,10 @@
     font-size: 24px; 
   }
 
+  .home-hero{
+    padding-bottom: 220px;
+  }
+
   .home-navbar {
     padding-top: var(--dl-space-space-threeunits);
     padding-bottom: var(--dl-space-space-threeunits);
