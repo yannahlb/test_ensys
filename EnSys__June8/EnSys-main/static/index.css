@@ -338,6 +338,7 @@
   .home-navbar {
     padding-top: var(--dl-space-space-threeunits);
     padding-bottom: var(--dl-space-space-threeunits);
+    padding-left: var(--dl-space-space-threeunits);
   }
 
   .home-link,.home-btn-group,.home-socials1{
@@ -363,6 +364,7 @@
   .home-navbar {
     padding-top: var(--dl-space-space-threeunits);
     padding-bottom: var(--dl-space-space-threeunits);
+    padding-left: var(--dl-space-space-threeunits);
   }
 
 
@@ -438,6 +440,7 @@
   .home-navbar {
     padding-top: var(--dl-space-space-threeunits);
     padding-bottom: var(--dl-space-space-threeunits);
+    padding-left: var(--dl-space-space-threeunits);
   }
 
 
