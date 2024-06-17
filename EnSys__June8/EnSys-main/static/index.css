@@ -332,9 +332,20 @@
 
 @media(max-width: 991px) {
 
-  .button{
-    margin-right: 50px;
-  }
+  .button {
+    margin-right: 30px;
+    font-size: 14px;
+}
+
+.home-nav {
+  gap: 24px;
+}
+
+.home-navbar {
+  padding-top: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-threeunits);
+  padding-left: var(--dl-space-space-halfunit);
+}
 
   .bubble-button img {
     width: 200px;
@@ -347,7 +358,7 @@
     padding-left: var(--dl-space-space-threeunits);
   }
 
-  .home-link,.home-btn-group,.home-socials1{
+  .home-btn-group,.home-socials1{
     display: none;
   }
 
@@ -388,15 +399,20 @@
     height: 150px;
   }
 
-  .button{
-    margin-right: 50px;
-  }
+  .button {
+    margin-right: 25px;
+    font-size: 14px;
+}
 
-  .home-navbar {
-    padding-top: var(--dl-space-space-threeunits);
-    padding-bottom: var(--dl-space-space-threeunits);
-    padding-left: var(--dl-space-space-threeunits);
-  }
+.home-nav {
+  gap: 0;
+}
+
+.home-navbar {
+  padding-top: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-threeunits);
+  padding-left: var(--dl-space-space-halfunit);
+}
 
   .home-hero {
     padding-top: 200px;
@@ -466,9 +482,21 @@
 
 @media(max-width: 479px) {
 
-  .button{
-    margin-right: 50px;
-  }
+  .button {
+    margin-right: 7px;
+    font-size: 10px;
+}
+
+.home-nav {
+  gap: 0;
+}
+
+.home-navbar {
+  padding-top: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-threeunits);
+  padding-left: var(--dl-space-space-halfunit);
+}
+
 
   .bubble-button img {
     width: 90px;
